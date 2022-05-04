@@ -1,0 +1,76 @@
+.dropdown-menu {
+    background: white;
+  }
+ #navbar-title{
+   border-radius: 10px;
+     position: fixed;
+     padding-top:5px;
+     z-index: 33;
+     padding-bottom:10px;
+     background-color:beige;
+ }
+  h2{
+      font-family:"Montserrat-light",sans-serif;
+      margin-left:8px;
+      margin-top:25px;
+      font-size: 3rem;
+  }
+ 
+  
+  .dropdown-item {
+    color: black !important;
+  }
+  .btn-signup{
+      margin-left:55rem;
+  }
+
+ .feature-img{
+     height:500px;
+     padding:20px 10px;
+
+  }
+  .feature-para{
+      text-align: center;
+      margin-top:200px;
+  }
+ 
+  #andheri{
+      padding: 10px 70px;
+      margin: 10px 10px;
+  }
+  
+  .card:hover{
+      transform: scale(0.9);
+  }
+  .card{
+      
+      text-align: center;
+  }
+  .card img{
+      height: 300px;
+  }
+  #footer{
+      height:500px;
+      background-color: #066163;
+      color:white;
+      margin-top:100px;
+      text-align:center;
+      padding:40px 10px;
+     margin-left:10px;
+     margin-right:10px;
+  }
+  
+  hr{
+      margin-top:100px;
+      border:1px solid grey;
+      
+  }
+  .footer-img{
+      height:50px;
+      margin-bottom:100px;
+     
+  }
+
+  .andheri-title{
+      text-align:center;
+  }
